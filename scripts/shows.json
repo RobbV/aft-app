@@ -1,0 +1,56 @@
+var myShows = [
+  {
+    "day": "25",
+    "month": "MAR",
+    "year": "2016",
+    "city": "Kingston",
+  },
+  {
+    "day": "29",
+    "month": "MAR",
+    "year": "2016",
+    "city": "North Bay",
+  },
+  {
+    "day": "24",
+    "month": "JUNE",
+    "year": "2016",
+    "city": "Winchester",
+  },
+  {
+    "day": "25",
+    "month": "JUN",
+    "year": "2016",
+    "city": "Toronto",
+  },
+  {
+    "day": "22",
+    "month": "JUL",
+    "year": "2016",
+    "city": "Buffalo",
+  },
+  {
+      "day": "30",
+      "month": "JUL",
+      "year": "2016",
+      "city": "Peterborough",
+    },
+    {
+      "day": "31",
+      "month": "JUL",
+      "year": "2016",
+      "city": "Peterborough",
+    },
+    {
+      "day": "14",
+      "month": "AUG",
+      "year": "2016",
+      "city": "Hampton",
+    },
+    {
+      "day": "4",
+      "month": "NOV",
+      "year": "2016",
+      "city": "Eugenia - \"This is not the end\" CD Release",
+    }
+]

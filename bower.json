@@ -1,0 +1,19 @@
+{
+  "name": "anthemfortoday.net",
+  "authors": [
+    "RobbV"
+  ],
+  "description": "web app for anthem for today, web app has a store about page, contact and home page",
+  "main": "index.hmtl",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
